@@ -189,3 +189,93 @@ Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-conf
 ![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/815afbe0-1b11-4423-8f9d-543a84501cc4)
 
 
+# 29. Task 29. Post Install Configuration, Configure "Roles" by going to Admin Panel to Agents to Roles, Notice ( Supreme Admin ) 
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/29a3bb07-8e25-4637-a2ff-4671efbc1855)
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/ca217a2f-581f-4052-b9df-c73380ce283b)
+
+
+# 30. Task 30. Configure "Departments" by going to Admin Panel to Agents to Departments, Notice (System Administrator)
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/89d748d9-2382-4d05-a87c-537541300784)
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/53f89592-d098-4999-a089-3a8c244c03d2)
+
+
+# 31. Task 31. Configure "Teams" by going to Admin Panel to Agents to Teams, Notice (Notice Levels of Support)
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/507a4bed-6234-440a-9b16-094dfe8b1601)
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/b17b4b22-6321-4949-ab19-2ec4e5e01523)
+
+
+# 32. Task 32. Configure "Creation of Tickets" by going to Admin Panel to Settings to User Settings, Notice (Require Registration and Login to Create Tickets Option)
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/ee7d4aed-b614-4d9c-85ba-dc2f2275f53a)
+
+
+# 33. Task 33. Configure "Agents (Workers)" by going to Admin Panel to Agents to Add New
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/156f7e24-011d-4007-8f4c-a0dc5df1372b)
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/483be23f-ec79-457a-82b8-bafa66344a97)
+
+
+# 34. Task 34. Configure "Users (Customers)" by going to Admin Panel to Users to Add New
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/144fa779-f7c6-441a-83bd-7c8c6fca9dec)
+
+
+# 35. Task 35. Configure "SLA" by going to Admin Panel to Manage to SLA (SEV-A) 1 Hour 24/7, (SEV-B) 4 Hour 24/7, (SEV-C) 8 Hour Business Hours
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/06d6ac23-62f3-4b23-808a-0e20a2c73ffb)
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/c862b3e5-e248-4383-acd3-c14339957fb9)
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/445baaf8-769a-4752-8c89-19e3c5478781)
+
+
+# 36. Task 36. Configure "Help Topics" by going to Admin Panel to Manage to Help Topics 
+
+Business Critical Outage
+Personal Computer Issues
+Equipment Request
+Password Reset
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/eda17624-58e3-4b4a-a448-039201602046)
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/dcef7fa5-8699-4724-982a-2a1bd43a3af6)
+
+
+# 37. Task 37. Create Dummy Tickets as an external user 
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/abe33d17-c051-4670-b4d7-3c8617599355)
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/27997875-fec3-4eec-bc77-975c672c38ec)
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/f1862e9c-12f7-4561-9597-86f3aab666db)
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/2d000cb7-0350-4055-acc6-b99b117c344b)
+
+
+# 38. Task 38. View Tickets as The Admin, See Closed Ticket History 
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/0f7f319a-f130-4e5d-9af3-5f20a8a662af)
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/28c9868f-4383-4a59-a7d5-0e1263b02866)
+
+
+# 39. Task 39. View Open Tickets and Adjust Details 
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/b9b0f17d-84d5-439e-b0ca-d5cfbbb4ff9f) 
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/35d7b05d-f9c2-48e0-baed-f99ad1f2ecbe)
+
+
+# 40. Task 40. Assign an Open Ticket to Agent
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/a4dfe4f5-45bb-4fa1-a441-30841efdf8d9)
+
+
+![image](https://github.com/iahalkhatib/OS-Ticket-Install-and-Confiure-Lab-1-/assets/170050432/cb523825-21c1-435b-9be4-e2006a7d74d5)
