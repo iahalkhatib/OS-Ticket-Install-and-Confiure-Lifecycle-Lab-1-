@@ -1,4 +1,4 @@
-# OS-Ticket-Prerequisites, Installation, and Post-Installation Configuration
+# OS-Ticket-Prerequisites, Installation, Post-Installation Configuration, & Lifecycle 
 
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
